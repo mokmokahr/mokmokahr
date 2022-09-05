@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=Mok%20Jeong%20Bin&fontSize=90&animation=blink&&fontColor=ffffff)
 
 <div align="center">
-  <p>hello there</p>
+  <p>Hi, I'm jbmok. I'm web developer. I'm studing backend</p>
+  <p>I'm studying at Korea Digital Media Highschool</p>
+  <p></p>
 </div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
