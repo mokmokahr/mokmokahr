@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=Mok%20Jeong%20Bin&fontSize=90&animation=blink&&fontColor=ffffff)
 
 <div align="center">
-  <p>Welcome</p>
   <p></p>
 </div>
 
