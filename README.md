@@ -1,8 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=Welcome!&fontSize=90&animation=blink&&fontColor=ffffff)
 
 <div align="center">
-  <p></p>
+  <p>I'm web developer</p>
 </div>
+<hr>
+##Hi, my name is jbmok.<br>
+-:Korea Digital Media Highschool
+-:
+<hr>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -15,7 +20,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/sqlite-009DFF?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp 
 </p>
