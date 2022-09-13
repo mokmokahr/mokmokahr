@@ -4,9 +4,12 @@
   <p>I'm web developer</p>
 </div>
 <hr>
-##Hi, my name is jbmok.<br>
--:Korea Digital Media Highschool
--:
+<p>
+Hi, my name is jbmok.<br>
+I'm studing at Korea Digital Media Highschool<br>
+I want to be a full-stack developer<br>
+All colaboration requestions are welcome!<br>
+</p>
 <hr>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
