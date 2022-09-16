@@ -4,7 +4,7 @@
   <p>I'm web developer</p>
 </div>
 <hr>
-<p>
+<p align="center">
 Hi, my name is jbmok.<br>
 I'm studing at Korea Digital Media Highschool<br>
 I want to be a full-stack developer<br>
