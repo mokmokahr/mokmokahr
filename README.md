@@ -15,7 +15,7 @@ All collaboration requestions are welcome!<br>
   <img src="https://img.shields.io/badge/Clang-7600BC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-FF9933?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/svelte-009DFF?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/svelte-ffffff?style=flat-square&logo=svelte&logoColor=orange"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>&nbsp 
