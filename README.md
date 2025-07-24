@@ -2,7 +2,6 @@
 
 <p align="center">
   Hi, I'm Jongbin Mok, an aspiring full-stack developer<br>
-  I'm eager to collaborate on projects and welcome any teamwork opportunities!<br>
 </p>
 <hr>
 
@@ -20,20 +19,4 @@
   <br>
   <h4>Tools</h4>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
-</div>
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokmokahr&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-<br>
-<br>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokmokahr" />
 </div>
