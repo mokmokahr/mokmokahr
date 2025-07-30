@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=Welcome!&fontSize=90&animation=blink&&fontColor=ffffff)
 
 <p align="center">
-  Hi, I'm Jongbin Mok, an aspiring full-stack developer<br>
+  Hi, I'm Jeongbin Mok, an aspiring full-stack developer<br>
 </p>
 <hr>
 
