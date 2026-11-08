@@ -1,3 +1,9 @@
-<p align="center">
-  Hi, I'm Jeongbin Mok, an aspiring full-stack developer<br>
-</p>
+### Hi, I'm Jeongbin Mok
+
+ Currently learning & exploring:
+  - System Programming
+  - Web Development
+  - Computer Vision
+  - Mathematics
+  - Cybersecurity
+  - Software Automation
